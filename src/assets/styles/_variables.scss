@@ -1,0 +1,8 @@
+@use "sass:color";
+
+$title-color: color(display-p3 1 0.84 0);
+$text-color: color(display-p3 0.294 0.062 0.51);
+$background-color: color.scale(#F36863, $lightness: 70%);
+$fontFamily: 'Quicksand';
+$hoverColor: #000000;
+$textDecoration: none;
